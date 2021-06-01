@@ -4,7 +4,7 @@ This is a summary of Irene Au's TED Talk in March 2018. <br> Source: https://www
 
 ### The Beginning of HCI
 We key in the data, and computers are used to process the data.
-- Invention: Vaccum tubes, Early computers
+- Invention: Vacuum tubes, Early computers
 - Language: Physical switches
 - HCI Goal: Get the data processed
 
