@@ -58,11 +58,11 @@ The key will be in "__mediation__."
 
 ### Into the Sci-Fi
 Still now, all interactions between humans and computers are still much in direct manipulation. Can our thoughts send a message to the computer instead?
-Superhumans may be available thanks to an amalgam of technologies. Would there be a superhuman caste?
+Superhumans may be available thanks to an amalgam of technologies. Would there be a superhuman _caste_?
 - Invention: Brain-computer interfaces
 - Language: Human thought
 - HCI Goal: Augment humans
 
 ### Inventions and Unintended Consequences
-Will we have a distopia? In the words of Irene Au, "The future language of HCI needs to be informed by ethics, politics, art, and an understanding of human consciousness."
-Who decides? We are all stakeholders. We all play a role in shaping our relationship with technologies. We can help decide what's worth using and our time. 
+- Will we have a distopia? In the words of Irene Au, "The future language of HCI needs to be informed by ethics, politics, art, and an understanding of human consciousness."
+- Who decides? We are all stakeholders. We all play a role in shaping our relationship with technologies. We can help decide what's worth using and our time. 
