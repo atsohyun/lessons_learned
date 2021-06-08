@@ -66,3 +66,8 @@ Superhumans may be available thanks to an amalgam of technologies. Would there b
 ### Inventions and Unintended Consequences
 - Will we have a distopia? In the words of Irene Au, "The future language of HCI needs to be informed by ethics, politics, art, and an understanding of human consciousness."
 - Who decides? We are all stakeholders. We all play a role in shaping our relationship with technologies. We can help decide what's worth using and our time. 
+
+### Discussion
+- How does medium shape the interaction? Is medium the message?
+- Is deep learning more useful behind the scenes?
+- What is __information__ literacy?
