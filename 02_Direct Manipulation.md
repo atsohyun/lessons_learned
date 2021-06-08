@@ -58,3 +58,6 @@ Source: https://www.csc.kth.se/utbildning/kth/kurser/DH3050/hcihist11/DM.pdf
   - Immediate visibility of the results of operations and a layered or spiral approach to learning contribute to the attraction
 
 ### Lessons Learned
+- How can we accurately model the reality? 
+- Is system transparency still necessary for enjoyable interaction?
+- How can AI systems be directly manipulated in a more efficient manner?
