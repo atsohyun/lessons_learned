@@ -1,4 +1,4 @@
-Direct Manipulation: A Step Beyond Programming Languages
+Direct Manipulation: A Step Beyond Programming Languages (1983)
 --
 Ben Shneiderman, University of Maryland
 <br>
