@@ -1,6 +1,7 @@
 "Can I Not Be Suicidal on a Sunday?": Understanding Technology-Mediated Pathways to Mental Health Support
 --
 Pendse et al. CHI 2021 Best Papers 
+<br>
 Source: https://dl.acm.org/doi/pdf/10.1145/3411764.3445410
 
 Background
