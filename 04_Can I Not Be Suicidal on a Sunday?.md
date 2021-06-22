@@ -77,7 +77,7 @@ Discussion
 --
 - A key gap exists between how care was intended by those who support helplines, and how that same care was experienced in practice by those who needed it most 
   - the institutional promise of a quickly accessible active listener was rarely successfully realized for participants (= gap between __niti__ and __nyaya__)
-- Barriers rooted in the design of the helpline system limited their ability to engage with the resource, further incluencing their future interactions with other forms of care
+- Barriers rooted in the design of the helpline system limited their ability to engage with the resource, further influencing their future interactions with other forms of care
   - these intersections between individual needs, societal factors, and the design of the system make clear the need for researchers to deeply consider how structural factors create hurdles along an individual's pathway to care
 
 Takeaways
