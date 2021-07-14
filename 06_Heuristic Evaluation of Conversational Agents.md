@@ -5,7 +5,7 @@ Source: http://faculty.washington.edu/garyhs/docs/langevin-CHI2021-caheuristics.
 	
 Table of Contents
 --
-- Background (#background)
+- [Background](#background)
 
 Background
 --
